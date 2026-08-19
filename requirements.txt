@@ -1,0 +1,13 @@
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+python-louvain
+networkx
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+tqdm
+scikit-learn
